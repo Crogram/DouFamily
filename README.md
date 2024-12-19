@@ -1,2 +1,3 @@
 # DouFamily
-DouFamily 程江家庭信息管理系统
+
+程江®家庭信息管理系统
